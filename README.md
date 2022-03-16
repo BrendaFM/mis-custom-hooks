@@ -1,0 +1,2 @@
+# Notas
+Info del proyecto
